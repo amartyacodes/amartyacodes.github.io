@@ -71,7 +71,7 @@ export default {
 		},
 	],
 	projects: {
-		ml: [
+		web: [
 			{
 				projectName: "ARAMBHML-An Auto ML Platform for Beginners",
 				image: "images/arambhml.png",
@@ -104,7 +104,7 @@ export default {
 			},
 
 		],
-		dl: [
+		software: [
 			{
 				projectName: "A Novel Deep Learning Based Model for Classification of Rice Leaf Diseases",
 				image: "images/dlproject.png",
@@ -123,7 +123,7 @@ export default {
 				techStack: ["Python", "TensorFlow Federated", "Federated Learning"],
 			},
 		],
-		healthcare: [
+		android: [
 			{
 				projectName: "Cell-Detection-Using-Image-Processing",
 				image: "images/cell1.jpg",
