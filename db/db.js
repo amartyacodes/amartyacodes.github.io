@@ -116,7 +116,7 @@ export default {
 			},
 			{
 				projectName: "Application of Federated Learning in Building a Robust COVID-19 Chest X-ray Classification Model",
-				image: "images/Fl.jpg",
+				image: "images/Fl.png",
 				summary:
 					"Research Paper on application of Federated Learning in classification of COVID-19 chest X-rays, published on arxiv",
 				preview: "https://arxiv.org/abs/2204.10505",
