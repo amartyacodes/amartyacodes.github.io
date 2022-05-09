@@ -198,11 +198,11 @@ export default {
 			icon: "heartbeat",
 		},
 		{
-			title: "ISRO",
+			title: "Indian Space Research Organisation(ISRO)",
 			duration: "August 2021 - Dec 2021",
 			subtitle: "AI Research Intern",
 			details: [
-				"Worked at MOSDAC under Dr.Bipasha Paul Shukla,on building a model for identification of seeding condition ofclouds using Machine Learning with Python",
+				"Worked at MOSDAC, ISRO under Dr.Bipasha Paul Shukla,on building a model for identification of seeding condition ofclouds using Machine Learning with Python",
 				"Analyzed the Australian Cloud Seeding Experimentresults using Python in orderto judge the factors that affected the cloud seeding experiments",
 			    "Analyzed and used unsupervised learning to create a model from Japan Aerospace Exploration Agency(JAXA) data to study the factors related to cloud seeding."
 			],
