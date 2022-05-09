@@ -240,7 +240,7 @@ export default {
 				"TensorFlow"
 			],
 			icon: "heartbeat",
-		},
+		}
 	],
 	education: [
 		{
@@ -272,7 +272,7 @@ export default {
 			],
 			tags: ["Physics", "Chemistry", "Mathematics"],
 			icon: "book",
-		},
+		}
 	],
 	footer: [
 		{
