@@ -309,7 +309,7 @@ export default {
 				},
 				{
 					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+					link: "https://github.com/amartyacodes/amartyacodes.github.io",
 				},
 			],
 		},
