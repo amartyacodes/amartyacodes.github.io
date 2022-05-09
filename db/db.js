@@ -276,7 +276,7 @@ export default {
 	],
 	footer: [
 		{
-			label: "Dev Profiles",
+			label: "Dev/Research Profiles",
 			data: [
 				{
 					text: "Google Scholar",
