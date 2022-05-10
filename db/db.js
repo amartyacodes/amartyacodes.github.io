@@ -126,7 +126,7 @@ export default {
 		android: [
 			{
 				projectName: "Cell-Detection-Using-Image-Processing",
-				image: "images/cells4.jpg",
+				image: "images/cells4.png",
 				summary:
 					"An automated White Blood Cells(WBCs) detection technique from bone marrow",
 				preview: "https://github.com/amartyacodes/Cell-Detection-Using-Image-Processing",
