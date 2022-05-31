@@ -152,6 +152,22 @@ export default {
 		],
 		freelance: [
 			{
+				projectName: "Medical Report Generator",
+				image: "images/cell2.png",
+				summary:
+					"A multi-modal fusion model for prediction of adverse cardiovascular outcomes using both ECG and EHR Data.",
+				preview: "https://github.com/amartyacodes/Multi-modal-Fusion-Model-for-Predicting-Adverse-Cardiovascular-Outcomes",
+				techStack: ["Python","TensorFlow","Numpy","HTML","CSS"],
+			},
+			{
+				projectName: "Multi-modal Fusion Model for Predicting Adverse Cardiovascular Outcomes",
+				image: "images/fusionmodel.png",
+				summary:
+					"Built an end-to-end medical report generator application that writes a report when a chest X-ray is given",
+				preview: "https://github.com/amartyacodes/MedicalReportGenerator",
+				techStack: ["Python","TensorFlow","Numpy","HTML","CSS"],
+			},			
+			{
 				projectName: "Unsupervised-WBC-Segmentation",
 				image: "images/cell2.png",
 				summary:
