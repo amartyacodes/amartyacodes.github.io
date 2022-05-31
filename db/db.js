@@ -153,7 +153,7 @@ export default {
 		freelance: [
 			{
 				projectName: "Medical Report Generator",
-				image: "images/cell2.png",
+				image: "images/report.png",
 				summary:
 					"A multi-modal fusion model for prediction of adverse cardiovascular outcomes using both ECG and EHR Data.",
 				preview: "https://github.com/amartyacodes/Multi-modal-Fusion-Model-for-Predicting-Adverse-Cardiovascular-Outcomes",
