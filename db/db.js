@@ -3,7 +3,7 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I'm Amartya Bhattacharya,currently working as a research intern at Institute of Datability Science, Osaka University. I have previously worked as an undergraduate research assistant at Banerjee Lab, Arizona State University.",
+				"I'm Amartya Bhattacharya,currently working as a visiting researcher at Institute of Datability Science, Osaka University. I have previously worked as an undergraduate research assistant at Banerjee Lab, Arizona State University.",
 				"I am a curious soul who loves to solve problems in  Deep Learning, Computer Vision,NLP and applications of AI in Healthcare through research work.",
 				"Also involved in competitive programming and love to know about global politics",
 			],
