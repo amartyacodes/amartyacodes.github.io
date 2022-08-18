@@ -178,9 +178,26 @@ export default {
 		],
 	},
 	experience: [
+				{
+			title: "Institute of Datability Science, Osaka University",
+			duration: "Aug 2021 - Present",
+			subtitle: " Research Assistant",
+			details: [
+				"Working on Gaze Object Detection mode"
+			],
+			tags: [
+				"Python",
+				"MATLAB",
+				"Open CV",
+				"TensorFlow",
+				"LIME",
+				
+			],
+			icon: "heartbeat",
+		},
 		{
 			title: "Arizona State University: Banerjee Lab",
-			duration: "Dec 2021 - Present",
+			duration: "Dec 2021 - May 2022",
 			subtitle: "Undergraduate Research Assistant",
 			details: [
 				"Developed the code for conversion of ECG images to plots using Python and Matplotlib.",
