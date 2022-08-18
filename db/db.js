@@ -180,10 +180,10 @@ export default {
 	experience: [
 				{
 			title: "Institute of Datability Science, Osaka University",
-			duration: "Aug 2021 - Present",
+			duration: "Aug 2022 - Present",
 			subtitle: " Research Assistant",
 			details: [
-				"Working on Gaze Object Detection mode"
+				"Working on Gaze Object Detection model."
 			],
 			tags: [
 				"Python",
