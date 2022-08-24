@@ -281,7 +281,7 @@ export default {
 			duration: "2018-2022",
 			subtitle: "Universiy of Calcutta",
 			details: [
-				"CGPA: 8.12",
+				"CGPA: 8.2",
 				"Active Competitive Programmer with CodeChef Rating 4*.",
 				"Kaggle 2x Expert with highest achieved rank of 497 out of 300,000 data scientists from around the world. ",
 			],
