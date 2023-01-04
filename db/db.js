@@ -323,10 +323,7 @@ export default {
 					text: "GitHub",
 					link: "https://github.com/amartyacodes",
 				},
-				{
-					text: "Codechef",
-					link: "https://www.codechef.com/users/blaze1729",
-				},
+		
 			],
 		},
 		{
