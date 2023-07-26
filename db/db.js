@@ -178,12 +178,31 @@ export default {
 		],
 	},
 	experience: [
+		{
+			title: "Indian Institute of Science(IISc)",
+			duration: "July 2023 - Present",
+			subtitle: "Research Fellow",
+			details: [
+				"Working on Multi-modal fake news detection using Contrastive Learning Method"
+			],
+			tags: [
+				"Python",
+				"MATLAB",
+				"Open CV",
+				"TensorFlow",
+				"LIME",
+				
+			],
+			icon: "heartbeat",
+		}
 				{
 			title: "Institute of Datability Science, Osaka University",
-			duration: "Aug 2022 - Present",
+			duration: "Aug 2022 - July 2023",
 			subtitle: " Research Assistant",
 			details: [
-				"Working on Gaze Object Detection model."
+				"Worked on Gaze Object Detection model. Developed a novel deep learning based head tracking method.",
+				"Developed a method to detect and track the objects people were looking at, using video data.",
+				"Paper accepted at the 18th European Conference on Technology-Enhanced Learning(EC-TEL)"
 			],
 			tags: [
 				"Python",
@@ -201,7 +220,8 @@ export default {
 			subtitle: "Undergraduate Research Assistant",
 			details: [
 				"Developed the code for conversion of ECG images to plots using Python and Matplotlib.",
-				"Developed a multimodal neural network model to predict adverse healthcare outcomes from ECG images and EHR Data."
+				"Developed a multimodal neural network model to predict adverse healthcare outcomes from ECG images and EHR Data.",
+				"Paper published at the Physiological Measurements Journal."
 			],
 			tags: [
 				"Python",
