@@ -198,7 +198,7 @@ export default {
 				{
 			title: "Institute of Datability Science, Osaka University",
 			duration: "Aug 2022 - July 2023",
-			subtitle: " Research Assistant",
+			subtitle: " Researcher",
 			details: [
 				"Worked on Gaze Object Detection model. Developed a novel deep learning based head tracking method.",
 				"Developed a method to detect and track the objects people were looking at, using video data.",
