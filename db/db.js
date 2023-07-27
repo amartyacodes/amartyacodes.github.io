@@ -194,7 +194,7 @@ export default {
 				
 			],
 			icon: "heartbeat",
-		}
+		},
 				{
 			title: "Institute of Datability Science, Osaka University",
 			duration: "Aug 2022 - July 2023",
